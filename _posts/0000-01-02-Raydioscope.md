@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Once a memer , always a memer.
 Use the left arrow to go back!
